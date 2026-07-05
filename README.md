@@ -1,3 +1,3 @@
-# Crypto Scanner V9.1 Enterprise Stable
+# Crypto Scanner V9.2 Professional
 
-Upload all files to GitHub repo and Railway will redeploy.
+AI Signal Engine, Confidence, Sector Rotation, Top Opportunity Ranking.

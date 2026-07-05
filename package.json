@@ -1,17 +1,1 @@
-{
-  "name": "crypto-scanner-v9-hedge-fund",
-  "version": "9.1.0",
-  "type": "module",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "dependencies": {
-    "express": "^4.19.2",
-    "cors": "^2.8.5",
-    "helmet": "^7.1.0",
-    "compression": "^1.7.4"
-  },
-  "engines": {
-    "node": ">=18"
-  }
-}
+{"name":"crypto-scanner-v9-professional","version":"9.2.0","type":"module","scripts":{"start":"node server.js"},"dependencies":{"express":"^4.19.2","cors":"^2.8.5","helmet":"^7.1.0","compression":"^1.7.4"},"engines":{"node":">=18"}}
