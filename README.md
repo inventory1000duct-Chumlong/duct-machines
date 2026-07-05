@@ -1,3 +1,3 @@
-# Crypto Scanner V9.2 Professional
+# Crypto Scanner Pro V10.2.1 Quant Engine Hotfix
 
-AI Signal Engine, Confidence, Sector Rotation, Top Opportunity Ranking.
+Fixes frontend JS error: Identifier 'top' has already been declared.
